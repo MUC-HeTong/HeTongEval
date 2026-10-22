@@ -29,9 +29,9 @@ HeTongEval（和同评测）旨在构建面向低资源多语种与多模态基�
 
 ## Evaluation Ecosystem | 评测生态
 
-- **HeTongBench** — 多语种多模态评测基准体系
-- **HeTongRank** — 模型能力排行榜
-- **HeTongReport** — 模型评测报告与能力诊断
+- **[HeTongBench](https://github.com/MUC-HeTong/HeTongBench)** — 多语种多模态评测基准体系（规划中）
+- **[HeTongRank](https://github.com/MUC-HeTong/HeTongRank)** — 模型能力排行榜（规划中）
+- **HeTongReport** — 模型评测报告与能力诊断（规划中）
 
 ## Low-Resource Language Evaluation
 
